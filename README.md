@@ -7,4 +7,4 @@
 - [Redux](https://github.com/reactjs/redux)
 - [React-Router-Redux](https://github.com/reactjs/react-router-redux)
 - [GroundControl](https://github.com/raisemarketplace/ground-control)
-- [SamBell](https://github.com/ndreckshage/sambell)
+- [sambell](https://github.com/ndreckshage/sambell)
