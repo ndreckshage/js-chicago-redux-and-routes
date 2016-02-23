@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "sambell run"
+  },
+  "dependencies": {
+    "sambell": "^0.3.1"
+  }
+}
