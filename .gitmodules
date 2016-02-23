@@ -1,0 +1,3 @@
+[submodule "ground-control-example-full"]
+	path = ground-control-example-full
+	url = git@github.com:raisemarketplace/ground-control-example-full.git
